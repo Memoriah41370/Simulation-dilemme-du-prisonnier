@@ -1,0 +1,32 @@
+3
+-1
+0
+1
+1
+1
+2
+1
+1
+1
+1
+1
+
+
+
+
+####
+Commentaires
+####
+
+ligne 1 = nombre de points si l'IA triche et gagne.
+ligne 2 = nombre de points si l'IA joue et triche.
+ligne 3 = nombre de points si les 2 IAs trichent.
+ligne 4 = nombre de points si les 2 IAs joue.
+ligne 5 = nombre de tour que les IAs vont s'affronter par round.
+ligne 6 = nombre d'IA Tricheur dans la partie.
+ligne 7 = nombre d'IA Enfant dans la partie.
+ligne 8 = nombre d'IA Coequipier dans la partie.
+ligne 9 = nombre d'IA Copieur dans la partie.
+ligne 10 = nombre d'IA Ivrogne dans la partie.
+ligne 11 = nombre d'IA Indécie dans la partie.
+ligne 12 = nombre d'IA Inspecteur dans la partie.
